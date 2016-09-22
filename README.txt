@@ -1,2 +1,1 @@
-## Click stuff
-### On the site
+Now accepting clients!

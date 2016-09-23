@@ -1,4 +1,3 @@
-/* YOUR CUSTOM STYLES */
 
 html,
 body,
@@ -86,27 +85,7 @@ footer.page-footer {
 }
 
 /* Give all of these elements 1 id to avoid this repetitive code? */
-#best-features {
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
-
-#popular-packages {
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
-
-#examples-of-use {
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
-
-#testimonials {
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
-
-#pricing {
+.newSection {
     padding-top: 60px;
     padding-bottom: 60px;
 }
